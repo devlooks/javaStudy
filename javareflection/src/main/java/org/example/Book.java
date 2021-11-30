@@ -1,5 +1,6 @@
 package org.example;
 
+@MyAnnotation(value = "shin", number = 100)
 public class Book {
 
     private String a;
